@@ -15,7 +15,7 @@
 ---
 
 ### 👤 About Me
-```yaml
+```
 Name: "Pooja Prajapati"
 Country: "🇮🇳 India"
 Email: "poojaprajapati269@gmail.com"
@@ -28,15 +28,15 @@ Email: "poojaprajapati269@gmail.com"
 🌱 Exploring Firebase and Vue.js to expand my skill set.
 👯 Open to collaborating on Laravel and frontend development projects.
 💬 Ask me about PHP, Laravel, Vue.js, and frontend development!
-📧 Email me: Here
-
+📧 **Email me:** [poojaprajapati269@gmail.com](mailto:poojaprajapati269@gmail.com)
 
 
 ```
-📊 **My GitHub Stats, Streak, and Trophy**
 
+### 🌍 Connect With Me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-prajapati-40706b1ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ridhiki__daksh__/profilecard/?igsh=ODFwZmJqd3Q1ZDdt)
 
-🌍 Connect With Me!
 
 🛠️ Languages and Tools I Use and Love ❤️
 
